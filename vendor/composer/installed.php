@@ -1,24 +1,24 @@
 <?php return array (
   'root' => 
   array (
-    'pretty_version' => '1.0.0+no-version-set',
-    'version' => '1.0.0.0',
+    'pretty_version' => 'dev-main',
+    'version' => 'dev-main',
     'aliases' => 
     array (
     ),
-    'reference' => NULL,
-    'name' => 'celiopalombo/ecommerce_php',
+    'reference' => '56d15c945af177ec0666a1d9a49fb6d8e7b31eb0',
+    'name' => 'celiopalombo/loja_php',
   ),
   'versions' => 
   array (
-    'celiopalombo/ecommerce_php' => 
+    'celiopalombo/loja_php' => 
     array (
-      'pretty_version' => '1.0.0+no-version-set',
-      'version' => '1.0.0.0',
+      'pretty_version' => 'dev-main',
+      'version' => 'dev-main',
       'aliases' => 
       array (
       ),
-      'reference' => NULL,
+      'reference' => '56d15c945af177ec0666a1d9a49fb6d8e7b31eb0',
     ),
     'phpmailer/phpmailer' => 
     array (

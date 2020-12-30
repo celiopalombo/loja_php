@@ -6,5 +6,5 @@ $vendorDir = dirname(dirname(__FILE__));
 $baseDir = dirname($vendorDir);
 
 return array(
-    '' => array($vendorDir . '/celiopalombo/ecommerce_php/src'),
+    '' => array($vendorDir . '/celiopalombo/loja_php/src'),
 );

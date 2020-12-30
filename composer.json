@@ -1,9 +1,9 @@
 {
-    "name": "celiopalombo/ecommerce_php",
+    "name": "celiopalombo/loja_php",
     "authors": [
         {
             "name": "celio palombo",
-            "email": "celito@gmail.com.br"
+            "email": "celiopintopalombo@gmail.com.br"
         }
     ],
     "require": {
@@ -13,7 +13,7 @@
     },
     "autoload": {
         "psr-4": {
-            "": "vendor\\celiopalombo\\ecommerce_php\\src"
+            "": "vendor\\celiopalombo\\loja_php\\src"
         }
     }
 }
