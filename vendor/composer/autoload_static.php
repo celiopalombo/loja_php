@@ -4,7 +4,7 @@
 
 namespace Composer\Autoload;
 
-class ComposerStaticInitc33538dfc60e98acc5214b35efdf0f58
+class ComposerStaticInitdb37de92f77a5ac501e8406d00821dc0
 {
     public static $fallbackDirsPsr4 = array (
         0 => __DIR__ . '/..' . '/celiopalombo/loja_php/src',
@@ -42,9 +42,9 @@ class ComposerStaticInitc33538dfc60e98acc5214b35efdf0f58
     public static function getInitializer(ClassLoader $loader)
     {
         return \Closure::bind(function () use ($loader) {
-            $loader->fallbackDirsPsr4 = ComposerStaticInitc33538dfc60e98acc5214b35efdf0f58::$fallbackDirsPsr4;
-            $loader->prefixesPsr0 = ComposerStaticInitc33538dfc60e98acc5214b35efdf0f58::$prefixesPsr0;
-            $loader->classMap = ComposerStaticInitc33538dfc60e98acc5214b35efdf0f58::$classMap;
+            $loader->fallbackDirsPsr4 = ComposerStaticInitdb37de92f77a5ac501e8406d00821dc0::$fallbackDirsPsr4;
+            $loader->prefixesPsr0 = ComposerStaticInitdb37de92f77a5ac501e8406d00821dc0::$prefixesPsr0;
+            $loader->classMap = ComposerStaticInitdb37de92f77a5ac501e8406d00821dc0::$classMap;
 
         }, null, ClassLoader::class);
     }

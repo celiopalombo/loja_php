@@ -6,7 +6,7 @@
     'aliases' => 
     array (
     ),
-    'reference' => '56d15c945af177ec0666a1d9a49fb6d8e7b31eb0',
+    'reference' => 'c23df77261e83d35b68357067a0321ea9b6ef890',
     'name' => 'celiopalombo/loja_php',
   ),
   'versions' => 
@@ -18,7 +18,7 @@
       'aliases' => 
       array (
       ),
-      'reference' => '56d15c945af177ec0666a1d9a49fb6d8e7b31eb0',
+      'reference' => 'c23df77261e83d35b68357067a0321ea9b6ef890',
     ),
     'phpmailer/phpmailer' => 
     array (
